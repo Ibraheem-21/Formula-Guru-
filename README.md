@@ -69,8 +69,4 @@ Enter the change in displacement in meters: 100
 Enter the change in time in seconds: 10
 The velocity is 10.00 m/s
 
-Feel free to open an issue for questions or suggestions.
 
----
-
-You can customize this README further based on your specific needs and add more details if necessary.
